@@ -3,8 +3,8 @@ import CharacterCard from './CharacterCard'
 
 const CharacterList = (props) => {
         return (
-             <div>
-        <h2>{props.placeHolder}</h2>
+             <div className='characterList'>
+        <h2>Placeholder</h2>
         </div>
             // props.state.map(character=>{
             //     return (

@@ -1,3 +1,7 @@
+import FETCH_CHARICTERS_START from '../actions/actions';
+import FETCH_CHARICTERS_SUCCESS from '../actions/actions';
+import FETCH_CHARICTERS_ERROR from '../actions/actions';
+
 
 const initialState = {
     char_id: Number,
